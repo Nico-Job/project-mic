@@ -1,0 +1,39 @@
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: blue;
+color: white;
+}
+
+.h1
+{
+font-family: 'Times New Roman', Times, serif;
+color: purple;
+}
+
+.camera
+{
+    width: 500px;
+    height: 400px;
+    border:1px solid aquamarine;
+}
+
+
+
+.result_1:hover
+{
+    border-radius: 10cm;
+}
+
+.result_2:hover
+{
+    border-radius: 10px;
+}
+
+.result_3:hover
+{
+    border-radius: 10in;
+}
