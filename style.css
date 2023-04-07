@@ -14,12 +14,12 @@ font-family: 'Times New Roman', Times, serif;
 color: purple;
 }
 
-.camera
+#camera
 {
-    width: 500px;
-    height: 400px;
-    border:1px solid aquamarine;
-}
+   width:360px;
+    height: 250px;
+     border:1px solid grey;
+   }
 
 
 
