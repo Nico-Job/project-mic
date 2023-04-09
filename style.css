@@ -26,14 +26,23 @@ color: purple;
 .result_1:hover
 {
     border-radius: 10cm;
+    width:360px;
+    height: 250px;
+     border:1px solid grey;
 }
 
 .result_2:hover
 {
     border-radius: 10px;
+    width:360px;
+    height: 250px;
+     border:1px solid grey;
 }
 
 .result_3:hover
 {
     border-radius: 10in;
+    width:360px;
+    height: 250px;
+     border:1px solid grey;
 }
